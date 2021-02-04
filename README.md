@@ -1,2 +1,1 @@
-# docs-java
-Java
+# Java
